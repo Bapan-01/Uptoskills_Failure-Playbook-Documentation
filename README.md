@@ -1,3 +1,13 @@
+# Failure Playbook Documentation
+
+This repository contains documentation for a fault tolerance workflow demonstrating retries, exponential backoff, circuit breaker behavior, and dead-letter queue (DLQ) handling.
+
+**Type:** Documentation Project
+
+**Purpose:** Academic assignment to explain failure handling patterns in distributed systems.
+
+**Author:** Bapan Gain
+
 Welcome to the **Failure Playbook Documentation** repository. This project is a comprehensive, end-to-end guide designed to illustrate how distributed systems handle requests that fail, retry, recover, or ultimately transition to a Dead-Letter Queue (DLQ).
 
 This is a **documentation-only project** created as part of Module 6 (Fault Tolerance, Retries & Dead-Letter Queues) under Task T13. It synthesizes key reliability engineering patterns—such as Transient vs. Permanent Failure Classification, Exponential Backoff with Jitter, Circuit Breakers, and DLQ Management—into a cohesive, actionable operational playbook.
